@@ -39,8 +39,14 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 1"
         />
@@ -79,8 +85,14 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 2"
         />
@@ -119,8 +131,14 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 3"
         />
@@ -159,8 +177,14 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 4"
         />
@@ -199,8 +223,14 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 5"
         />
@@ -239,8 +269,14 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 6"
         />
@@ -308,8 +344,14 @@ exports[`Storyshots Task Archived 1`] = `
     className="title"
   >
     <input
-      placeholder="Inpute Task title"
+      placeholder="Input Task title"
       readOnly={true}
+      style={
+        Object {
+          "background": "grey",
+          "color": "whit",
+        }
+      }
       type="text"
       value="Test Task"
     />
@@ -343,8 +385,14 @@ exports[`Storyshots Task Default 1`] = `
     className="title"
   >
     <input
-      placeholder="Inpute Task title"
+      placeholder="Input Task title"
       readOnly={true}
+      style={
+        Object {
+          "background": "grey",
+          "color": "whit",
+        }
+      }
       type="text"
       value="Test Task"
     />
@@ -386,8 +434,14 @@ exports[`Storyshots Task Pinned 1`] = `
     className="title"
   >
     <input
-      placeholder="Inpute Task title"
+      placeholder="Input Task title"
       readOnly={true}
+      style={
+        Object {
+          "background": "grey",
+          "color": "whit",
+        }
+      }
       type="text"
       value="Test Task"
     />
@@ -439,8 +493,14 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 1"
         />
@@ -479,8 +539,14 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 2"
         />
@@ -519,8 +585,14 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 3"
         />
@@ -559,8 +631,14 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 4"
         />
@@ -599,8 +677,14 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 5"
         />
@@ -639,8 +723,14 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 6"
         />
@@ -895,8 +985,14 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 4 (pinned)"
         />
@@ -935,8 +1031,14 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 5 (pinned)"
         />
@@ -975,8 +1077,14 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 6 (pinned)"
         />
@@ -1015,8 +1123,14 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 1"
         />
@@ -1055,8 +1169,14 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 2"
         />
@@ -1095,8 +1215,14 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Inpute Task title"
+          placeholder="Input Task title"
           readOnly={true}
+          style={
+            Object {
+              "background": "grey",
+              "color": "whit",
+            }
+          }
           type="text"
           value="Task 3"
         />
