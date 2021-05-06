@@ -8,7 +8,7 @@ on: push
 jobs:
   test:
     # Operating System
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     # Job steps
     steps:
       - uses: actions/checkout@v1
@@ -18,5 +18,5 @@ jobs:
       # Options required for Chromatic's GitHub Action
       with:
         # Chromatic projectToken, see https://storybook.js.org/tutorials/intro-to-storybook/react/en/deploy/ to obtain it
-        projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
+        projectToken: 057f8aaf7a7a
         token: ${{ secrets.GITHUB_TOKEN }}

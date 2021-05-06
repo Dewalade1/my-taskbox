@@ -46,8 +46,6 @@ exports[`Storyshots InboxScreen Default 1`] = `
               "color": "#2cc5d2",
             }
           }
-          type="text"
-          value="Task 1"
         />
       </div>
       <div
