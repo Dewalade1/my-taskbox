@@ -44,7 +44,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -90,7 +90,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -136,7 +136,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -182,7 +182,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -228,7 +228,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -274,7 +274,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -349,7 +349,7 @@ exports[`Storyshots Task Archived 1`] = `
       style={
         Object {
           "background": "grey",
-          "color": "whit",
+          "color": "white",
         }
       }
       type="text"
@@ -390,7 +390,7 @@ exports[`Storyshots Task Default 1`] = `
       style={
         Object {
           "background": "grey",
-          "color": "whit",
+          "color": "white",
         }
       }
       type="text"
@@ -439,7 +439,7 @@ exports[`Storyshots Task Pinned 1`] = `
       style={
         Object {
           "background": "grey",
-          "color": "whit",
+          "color": "white",
         }
       }
       type="text"
@@ -498,7 +498,7 @@ exports[`Storyshots TaskList Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -544,7 +544,7 @@ exports[`Storyshots TaskList Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -590,7 +590,7 @@ exports[`Storyshots TaskList Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -636,7 +636,7 @@ exports[`Storyshots TaskList Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -682,7 +682,7 @@ exports[`Storyshots TaskList Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -728,7 +728,7 @@ exports[`Storyshots TaskList Default 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -990,7 +990,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -1036,7 +1036,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -1082,7 +1082,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -1128,7 +1128,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -1174,7 +1174,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
@@ -1220,7 +1220,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           style={
             Object {
               "background": "grey",
-              "color": "whit",
+              "color": "white",
             }
           }
           type="text"
